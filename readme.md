@@ -180,8 +180,8 @@ Ultimately, the Geo-Conversion project exemplified the fusion of technology and 
 # Contributors
 
 - Shameer Ashraf - shameerisb@gmail.com
-- Bostan Khan - Bostankhan6@gmail.com
-- Muhammad Salman -  
+- Bostan Khan - bostankhan6@gmail.com
+- Muhammad Salman - makhtar.phdcs22seecs@seecs.edu.pk
 
 # Acknowledgements
 
