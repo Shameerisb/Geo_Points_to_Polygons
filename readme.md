@@ -2,6 +2,8 @@
 
 In the region of Bahawalnagar, Pakistan, a significant geospatial initiative unfolds. The objective is to advance agricultural precision and land management through the conversion of point data to respective polygons for crop areas to enable data analytics and predictions.
 
+![Alt text](Figures/intro.png)
+
 # Project Overview
 
 At its core, this project aims to replace individual data points with polygons, creating a more comprehensive representation of farm lands. Over **18,000 meticulously placed data** points serve as the foundation. These points correspond to **Kharif crops for the tenure of 2023 - 2024**, including maize, rice, fodder, cotton, and sugarcane. Our endeavor is to annotate farmlands with these specific crop types, painting a clearer picture of the landscape.
