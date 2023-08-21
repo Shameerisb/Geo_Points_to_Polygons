@@ -48,6 +48,8 @@ Utilizing the power of the QGIS tool, this project explores new horizons in geos
 
 # Methodology: Step-by-Step
 
+Given below is a step-by-step procedure for converting data points to polygons for their respective areas or objects. You may also watch the video tutorial through the following link: [Point Data into polygon shapes using Segment-geospatial model.](https://www.youtube.com/watch?v=WBIuUh_oYzg&ab_channel=MYSTERIOUS) 
+
 ## Adding Initial Data Points in QGIS
 
 At the start of our project, we had a collection of data points that indicated the locations of different farms and the types of crops. To handle this data effectively, we utilized QGIS. 
