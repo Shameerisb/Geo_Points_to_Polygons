@@ -1,6 +1,6 @@
-# Geo-Conversion: Points to Polygons
+# Enhancing Agricultural Precision and Land Management through Geo-Conversion: From Points to Polygons in Bahawalnagar, Pakistan
 
-In the region of Bahawalnagar, Pakistan, a significant geospatial initiative unfolds. The objective is to advance agricultural precision and land management through the conversion of point data to polygons, reshaping the way we understand crop cultivation.
+In the region of Bahawalnagar, Pakistan, a significant geospatial initiative unfolds. The objective is to advance agricultural precision and land management through the conversion of point data to respective polygons for crop areas to enable data analytics and predictions.
 
 # Project Overview
 
